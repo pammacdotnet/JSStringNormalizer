@@ -1,0 +1,23 @@
+{
+  "name": "string-normalize",
+  "main": ["string-normalize.js"],
+  "version": "1.0.0",
+  "homepage": "https://github.com/pammacdotnet/JSStringNormalizer",
+  "authors": [
+    "pammacdotnet"
+  ],
+  "description": "JS String ASCII Normalizer by Daniel Garajau",
+  "keywords": [
+    "string",
+    "normalize", 
+	"ascii"
+  ],
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
